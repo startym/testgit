@@ -7,6 +7,11 @@ public class App {
     private static int age = 10;
     private static Date borndate;
 
+    private static String sex = "男";
+
+    /*
+     * 主方法
+     */
     public static void main(String[] args) {
         System.out.println("date:"+borndate);
         String name = "admin111";
